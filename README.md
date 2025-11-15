@@ -100,8 +100,8 @@ Result: Handle 30-40 tasks per conversation
 
 ```bash
 # Clone the repository
-git clone https://github.com/Lucface/mcm-context-manager.git
-cd mcm-context-manager
+git clone https://github.com/Lucface/mcp-context-manager.git
+cd mcp-context-manager
 
 # Run installer
 ./install.sh
@@ -231,8 +231,8 @@ All commands work in **Claude Code** by typing `/mcm <command>`:
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/Lucface/mcm-context-manager.git
-   cd mcm-context-manager
+   git clone https://github.com/Lucface/mcp-context-manager.git
+   cd mcp-context-manager
    ```
 
 2. **Run installer:**
@@ -277,7 +277,7 @@ All commands work in **Claude Code** by typing `/mcm <command>`:
 ## 📂 Project Structure
 
 ```
-mcm-context-manager/
+mcp-context-manager/
 ├── README.md                 # This file
 ├── LICENSE                   # MIT License
 ├── install.sh                # One-click installer
@@ -392,8 +392,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **Documentation:** Type `/mcm help` in Claude Code
 - **Setup Guide:** [docs/SETUP_GUIDE.md](docs/SETUP_GUIDE.md)
 - **Architecture:** [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
-- **Issues:** [GitHub Issues](https://github.com/Lucface/mcm-context-manager/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/Lucface/mcm-context-manager/discussions)
+- **Issues:** [GitHub Issues](https://github.com/Lucface/mcp-context-manager/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Lucface/mcp-context-manager/discussions)
 
 ---
 
@@ -408,8 +408,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📞 Support
 
 - 📖 **Documentation:** Type `/mcm help` in Claude Code
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/Lucface/mcm-context-manager/issues)
-- 💬 **Questions:** [GitHub Discussions](https://github.com/Lucface/mcm-context-manager/discussions)
+- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/Lucface/mcp-context-manager/issues)
+- 💬 **Questions:** [GitHub Discussions](https://github.com/Lucface/mcp-context-manager/discussions)
 - 📧 **Email:** lucas@hookupmy.ai
 
 ---
